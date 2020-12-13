@@ -1,4 +1,4 @@
-files:
+files:hello world
   - source: /content/**/*.md
     translation: /translations/%locale%/%original_path%/%original_file_name%
     ignore:
