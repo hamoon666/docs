@@ -1,4 +1,7 @@
----
+fork hamoon666 
+/
+docs
+hello---
 title: Synchronizing a team with an identity provider group
 intro: 'You can synchronize a {% data variables.product.prodname_dotcom %} team with an identity provider (IdP) group to automatically add and remove team members.'
 product: '{% data reusables.gated-features.team-synchronization %}'
