@@ -1,4 +1,4 @@
----
+redme apl  &  index---
 title: Creating a GitHub App using URL parameters
 intro: 'You can preselect the settings of a new {% data variables.product.prodname_github_app %} using URL [query parameters](https://en.wikipedia.org/wiki/Query_string) to quickly set up the new {% data variables.product.prodname_github_app %}''s configuration.'
 redirect_from:
