@@ -1,3 +1,4 @@
+fork hamoon666 / docs
 ---
 title: Reinstating a former member of your organization
 intro: 'Organization owners can {% if currentVersion == "free-pro-team@latest" %}invite former organization members to rejoin{% else %}add former members to{% endif%} your organization, and choose whether to restore the person''s former role, access permissions, forks, and settings.'
